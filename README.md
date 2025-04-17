@@ -18,6 +18,10 @@ Step 3. Be sure to use this tool with ROOT access.
 
 Step 4. Before using, use the following command.
 
+```
+#chmod +x Brucelee.sh 
+```
+
 After completing these steps, you can use the project.
 
 Wishing you the best
